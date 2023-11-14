@@ -1,0 +1,467 @@
+#linkbar-1 {
+padding-left:5px;
+padding-right:5px
+}
+
+#section-15 {
+padding-top:5%;
+padding-left:5px;
+padding-right:5px;
+padding-bottom:2%;
+background-color:#ebebeb
+}
+
+@media screen and (max-width: 1024px) {
+#section-15 {
+min-height:449px
+}
+}
+
+#latest {
+margin-top:50px;
+padding-left:5px;
+padding-right:5px
+}
+
+#post {
+margin-top:50px;
+padding-top:14px;
+padding-left:5px;
+padding-right:5px;
+padding-bottom:14px
+}
+
+@media screen and (max-width: 479px) {
+#post {
+padding-top:0
+}
+}
+
+#row-89 {
+margin-top:20px;
+padding-top:21px;
+padding-left:5px;
+padding-right:5px;
+padding-bottom:21px
+}
+
+#recipes {
+margin-top:50px;
+margin-bottom:50px;
+padding-left:5px;
+padding-right:5px
+}
+
+#footer {
+text-align:center;
+min-height:207px;
+padding-top:40px;
+padding-left:5px;
+padding-right:5px;
+background-image:-webkit-linear-gradient(0deg,rgba(15,15,15,0.63),rgba(15,15,15,0.63)),url(https://speedwapp-assets.s3.us-west-2.amazonaws.com/user-gallery/Speedwapp/642174de245c4_1679914206.png);
+background-image:-moz-linear-gradient(0deg,rgba(15,15,15,0.63),rgba(15,15,15,0.63)),url(https://speedwapp-assets.s3.us-west-2.amazonaws.com/user-gallery/Speedwapp/642174de245c4_1679914206.png);
+background-image:-o-linear-gradient(0deg,rgba(15,15,15,0.63),rgba(15,15,15,0.63)),url(https://speedwapp-assets.s3.us-west-2.amazonaws.com/user-gallery/Speedwapp/642174de245c4_1679914206.png);
+background-image:-ms-linear-gradient(0deg,rgba(15,15,15,0.63),rgba(15,15,15,0.63)),url(https://speedwapp-assets.s3.us-west-2.amazonaws.com/user-gallery/Speedwapp/642174de245c4_1679914206.png);
+background-image:linear-gradient(0deg,rgba(15,15,15,0.63),rgba(15,15,15,0.63)),url(https://speedwapp-assets.s3.us-west-2.amazonaws.com/user-gallery/Speedwapp/642174de245c4_1679914206.png);
+background-size:cover;
+background-position:top center
+}
+
+@media screen and (max-width: 479px) {
+#footer {
+padding-top:75px;
+background-position:Bottom Left
+}
+}
+
+#section-144 {
+padding-top:20px;
+padding-left:5px;
+padding-right:5px;
+padding-bottom:20px
+}
+
+@media screen and (max-width: 479px) {
+#section-144 {
+font-size:11px;
+text-align:center
+}
+}
+
+#linkblock-2 {
+display:flex
+}
+
+#image-10 {
+max-width:37px;
+max-height:44px
+}
+
+#column-17 {
+padding-top:79px
+}
+
+@media screen and (max-width: 1024px) {
+#column-17 {
+padding-top:35px
+}
+}
+
+@media screen and (max-width: 479px) {
+#column-17 {
+margin-bottom:20px
+}
+}
+
+#heading-20 {
+color:#e5053f;
+font-size:90px;
+font-weight:700
+}
+
+@media screen and (max-width: 1024px) {
+#heading-20 {
+font-size:60px
+}
+}
+
+@media screen and (max-width: 479px) {
+#heading-20 {
+font-size:40px
+}
+}
+
+#link-22 {
+color:#e5053f
+}
+
+#heading-24 {
+font-weight:700
+}
+
+@media screen and (max-width: 479px) {
+#column-26 {
+margin-bottom:20px
+}
+
+#column-32 {
+margin-bottom:20px
+}
+
+#column-36 {
+margin-bottom:0
+}
+}
+
+#linkblock-40 {
+margin-bottom:20px;
+display:inline-block
+}
+
+#paragraph-30 {
+margin-bottom:0
+}
+
+#link-31 {
+color:#e5053f
+}
+
+#image-29 {
+margin-bottom:0
+}
+
+#linkblock-41 {
+margin-bottom:20px;
+display:inline-block
+}
+
+#paragraph-34 {
+margin-bottom:0
+}
+
+#link-35 {
+color:#e5053f
+}
+
+#image-33 {
+margin-bottom:0
+}
+
+#linkblock-42 {
+margin-bottom:20px;
+display:inline-block
+}
+
+#paragraph-38 {
+margin-bottom:0
+}
+
+#link-39 {
+color:#e5053f
+}
+
+#image-37 {
+margin-bottom:0
+}
+
+#heading-56 {
+font-weight:700
+}
+
+#row-57 {
+justify-content:space-between;
+align-items:stretch
+}
+
+#row-74 {
+background-image:url(https://speedwapp-assets.s3.us-west-2.amazonaws.com/user-gallery/RamuKa/65462d1a40cc9_1699097882.webp);
+background-size:cover;
+background-position:center center
+}
+
+@media screen and (max-width: 479px) {
+#column-58 {
+margin-bottom:20px
+}
+}
+
+#column-73 {
+display:block;
+background-image:url(https://speedwapp-assets.s3.us-west-2.amazonaws.com/user-gallery/RamuKa/65462d1a40cc9_1699097882.webp);
+background-size:cover;
+background-position:center center
+}
+
+#linkblock-59 {
+width:497px;
+margin-bottom:20px;
+display:inline-block;
+min-height:766px
+}
+
+#paragraph-61 {
+margin-bottom:0
+}
+
+#link-62 {
+color:#e5053f
+}
+
+#image-60 {
+margin-bottom:0
+}
+
+#paragraph-79 {
+top:162px;
+margin-bottom:0;
+min-height:125px
+}
+
+#link-80 {
+color:#e5053f
+}
+
+@media screen and (max-width: 479px) {
+#column-90 {
+margin-bottom:20px
+}
+}
+
+#section-94 {
+position:absolute;
+padding-top:12px;
+padding-left:4px;
+padding-right:9px;
+padding-bottom:12px;
+bottom:10%;
+background-color:#e5053f
+}
+
+#linkblock-142 {
+display:inline-block
+}
+
+#heading-95 {
+color:#fff;
+font-size:25px;
+font-weight:700
+}
+
+#section-98 {
+position:absolute;
+padding-top:12px;
+padding-left:4px;
+padding-right:9px;
+padding-bottom:12px;
+bottom:10%;
+background-color:#e5053f
+}
+
+#linkblock-143 {
+display:inline-block
+}
+
+#heading-99 {
+color:#fff;
+font-size:25px;
+font-weight:700
+}
+
+#heading-101 {
+font-weight:700
+}
+
+#row-102 {
+margin-bottom:50px
+}
+
+@media screen and (max-width: 479px) {
+#column-103 {
+margin-bottom:20px
+}
+}
+
+#linkblock-104 {
+margin-bottom:20px;
+display:inline-block
+}
+
+#paragraph-106 {
+margin-bottom:0
+}
+
+#link-107 {
+color:#e5053f
+}
+
+#image-105 {
+margin-bottom:0
+}
+
+#linkblock-109 {
+margin-bottom:20px;
+display:inline-block
+}
+
+#paragraph-111 {
+margin-bottom:0
+}
+
+#link-112 {
+color:#e5053f
+}
+
+#image-110 {
+margin-bottom:0
+}
+
+@media screen and (max-width: 479px) {
+#column-122 {
+margin-bottom:20px
+}
+}
+
+#linkblock-123 {
+margin-bottom:20px;
+display:inline-block
+}
+
+#paragraph-126 {
+margin-bottom:0
+}
+
+#link-127 {
+color:#e5053f
+}
+
+#image-124 {
+margin-bottom:0
+}
+
+#linkblock-129 {
+margin-bottom:20px;
+display:inline-block
+}
+
+#paragraph-132 {
+margin-bottom:0
+}
+
+#link-133 {
+color:#e5053f
+}
+
+#image-130 {
+margin-bottom:0
+}
+
+#heading-135 {
+color:#fff;
+font-weight:700;
+text-align:center
+}
+
+@media screen and (max-width: 479px) {
+#heading-135 {
+font-size:18px
+}
+}
+
+#form-136 {
+width:500px;
+display:flex;
+justify-content:center;
+border-width:1px;
+border-style:solid;
+padding-top:30px;
+padding-left:5px;
+padding-right:5px;
+padding-bottom:30px
+}
+
+#textinput-140 {
+width:258px;
+min-height:37px;
+padding-left:10px;
+padding-right:10px
+}
+
+@media screen and (max-width: 479px) {
+#textinput-140 {
+width:171px;
+font-size:11px;
+min-height:20px
+}
+}
+
+#button-141 {
+width:123px;
+color:#fff;
+min-height:40px;
+border-width:0;
+border-radius:0;
+background-color:#e5053f
+}
+
+@media screen and (max-width: 479px) {
+#button-141 {
+width:83px;
+font-size:11px;
+min-height:23px
+}
+}
+
+#paragraph-148 {
+margin-bottom:0
+}
+
+#paragraph-149 {
+margin-bottom:0;
+text-align:right
+}
+
+@media screen and (max-width: 479px) {
+#paragraph-149 {
+text-align:center
+}
+}
